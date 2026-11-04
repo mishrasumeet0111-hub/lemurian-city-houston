@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://houston.lemurianstudios.com/sitemap.xml
